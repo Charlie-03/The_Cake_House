@@ -1,0 +1,78 @@
+body {
+   background-color:#ADD8E6;
+   font-family: "Times New Roman", Times, serif;
+}
+   }
+
+h1 {
+   color:#808080;
+   margin-top:0px;
+   font-family: "Times New Roman", Times, serif;
+   background-color:#0000ff
+   }
+h2 {
+	color:#808080;
+	margin-left:20px;
+	font-family: "Times New Roman", Times, serif;
+}
+h3 {
+	color:#808080;
+	margin-left:20px;
+	font-family: "Times New Roman", Times, serif;
+}
+h4 {
+	color:#808080;
+	margin-left:20px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+#navigation
+{
+background-color: #235b79;
+height: 50px;
+}
+#heading
+{
+background-color: #3c9dd0;
+height:150x;
+}
+#content
+{
+width: 1500px;
+background-color: #ADD8E6;
+float:center;	
+height:
+
+.image-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 300px; /* set a fixed height for the container */
+  width: 300px; /* set a fixed width for the container */
+}
+
+img {
+  width: 300px; !important;
+  height: 300px; !important;
+}
+
+.column {
+  float: center;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: ;
+}
+
+.div{
+
+float: left;
+
+}
+
